@@ -1,6 +1,6 @@
 # Batyshev Alexander
 
-![](/Users/alexanderbatyshev/Home work Git/Repository/img)
+![](/Users/alexanderbatyshev/Home work Git/Repository/img/IMG_1.png)
 
 A highly skilled and enthusiastic professional with excellent knowledge of 
 automation ship’s energy systems and electronics.
